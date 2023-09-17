@@ -1,0 +1,59 @@
+.group-wrapper {
+  height: 57px;
+  position: relative;
+  width: 346px;
+}
+
+.group-wrapper .div {
+  height: 66px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 254px;
+}
+
+.group-wrapper .yeongheon-lee {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 2px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 0;
+  width: 252px;
+}
+
+.group-wrapper .text-wrapper {
+  color: #000000;
+}
+
+.group-wrapper .span {
+  color: #ffffff;
+}
+
+.group-wrapper .today-sep-PM {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  height: 22px;
+  left: 0;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.group-wrapper .ic-outline-location {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}

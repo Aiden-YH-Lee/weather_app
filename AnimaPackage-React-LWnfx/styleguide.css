@@ -1,0 +1,22 @@
+:root {
+  --default-bold-body-font-family: "SFPro Text-Semibold", Helvetica;
+  --default-bold-body-font-size: 17px;
+  --default-bold-body-font-style: normal;
+  --default-bold-body-font-weight: 400;
+  --default-bold-body-letter-spacing: -0.40799999237060547px;
+  --default-bold-body-line-height: 22px;
+  --default-bold-subheadline-font-family: "SFPro Text-Semibold", Helvetica;
+  --default-bold-subheadline-font-size: 15px;
+  --default-bold-subheadline-font-style: normal;
+  --default-bold-subheadline-font-weight: 400;
+  --default-bold-subheadline-letter-spacing: -0.5px;
+  --default-bold-subheadline-line-height: 20px;
+  --defaultsystembluedark: rgba(10, 132, 255, 1);
+  --defaultsystembluelight: rgba(0, 122, 255, 1);
+  --defaultsystemgreendark: rgba(50, 215, 75, 1);
+  --defaultsystemgreenlight: rgba(52, 199, 89, 1);
+  --defaultsystemorangedark: rgba(255, 159, 10, 1);
+  --defaultsystemorangelight: rgba(255, 149, 0, 1);
+  --label-colordarkprimary: rgba(255, 255, 255, 1);
+  --label-colorlightprimary: rgba(0, 0, 0, 1);
+}
